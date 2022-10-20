@@ -75,7 +75,8 @@ while (stop != "no")
     Console.WriteLine("");
     Console.WriteLine("");
     Console.WriteLine("Thank you For playing! WOuld you like to play again?");
-    Console.WriteLine("Please type 'yes or no'");
+    Console.WriteLine("Please enter anything to continue or type 'no'");
     Console.WriteLine("");
     stop = Console.ReadLine();
+    stop = stop.ToLower();
 }
