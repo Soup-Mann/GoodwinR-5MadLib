@@ -1,0 +1,15 @@
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\bin\Debug\net6.0\GoodwinR#5MadLib.exe
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\bin\Debug\net6.0\GoodwinR#5MadLib.deps.json
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\bin\Debug\net6.0\GoodwinR#5MadLib.runtimeconfig.json
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\bin\Debug\net6.0\GoodwinR#5MadLib.dll
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\bin\Debug\net6.0\GoodwinR#5MadLib.pdb
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.csproj.AssemblyReference.cache
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.AssemblyInfoInputs.cache
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.AssemblyInfo.cs
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.dll
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\refint\GoodwinR#5MadLib.dll
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.pdb
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\GoodwinR#5MadLib.genruntimeconfig.cache
+C:\Users\Mark\Downloads\GitRepository\GoodwinR-5MadLib\obj\Debug\net6.0\ref\GoodwinR#5MadLib.dll
