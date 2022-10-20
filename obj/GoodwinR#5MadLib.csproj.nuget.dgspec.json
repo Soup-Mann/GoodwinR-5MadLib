@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#5MadLib\\GoodwinR#5MadLib.csproj": {}
+    "C:\\Users\\Mark\\Downloads\\GitRepository\\GoodwinR-5MadLib\\GoodwinR#5MadLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#5MadLib\\GoodwinR#5MadLib.csproj": {
+    "C:\\Users\\Mark\\Downloads\\GitRepository\\GoodwinR-5MadLib\\GoodwinR#5MadLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#5MadLib\\GoodwinR#5MadLib.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\Downloads\\GitRepository\\GoodwinR-5MadLib\\GoodwinR#5MadLib.csproj",
         "projectName": "GoodwinR#5MadLib",
-        "projectPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#5MadLib\\GoodwinR#5MadLib.csproj",
-        "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#5MadLib\\obj\\",
+        "projectPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\GoodwinR-5MadLib\\GoodwinR#5MadLib.csproj",
+        "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\GoodwinR-5MadLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
